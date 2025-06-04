@@ -1,0 +1,16 @@
+<resources>
+    <!-- UI Labels -->
+    <string name="app_name">RateX</string>
+    <string name="from_currency">De moneda:</string>
+    <string name="to_currency">A moneda:</string>
+    <string name="rate_prefix">Tasa:</string>
+    <string name="rate_error">¡Lo sentimos! ¡Lo hemos estropeado!</string>
+
+    <!-- Currency Labels -->
+    <string name="usd_label">Dólar estadounidense</string>
+    <string name="eur_label">Euro</string>
+    <string name="rub_label">Rublo ruso</string>
+    <string name="jpy_label">Yen japonés</string>
+    <string name="gbp_label">Libra esterlina</string>
+    <string name="cny_label">Yuan chino</string>
+</resources>

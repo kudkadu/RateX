@@ -1,0 +1,16 @@
+<resources>
+    <!-- UI Labels -->
+    <string name="app_name">RateX</string>
+    <string name="from_currency">Valuuttalähde:</string>
+    <string name="to_currency">Valuuttakohde:</string>
+    <string name="rate_prefix">Hinta:</string>
+    <string name="rate_error">Perkele! Me mokasimme!</string>
+
+    <!-- Currency Labels -->
+    <string name="usd_label">Yhdysvaltain dollari</string>
+    <string name="eur_label">Euro</string>
+    <string name="rub_label">Venäjän rupla</string>
+    <string name="jpy_label">Japanin jeni</string>
+    <string name="gbp_label">Englannin punta</string>
+    <string name="cny_label">Kiinan yuan</string>
+</resources>

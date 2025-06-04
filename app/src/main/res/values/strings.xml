@@ -1,0 +1,16 @@
+<resources>
+    <!-- UI Labels -->
+    <string name="app_name">RateX</string>
+    <string name="from_currency">From currency:</string>
+    <string name="to_currency">To currency:</string>
+    <string name="rate_prefix">Rate:</string>
+    <string name="rate_error">Sorry! We messed up!</string>
+
+    <!-- Currency Labels -->
+    <string name="usd_label">US Dollar</string>
+    <string name="eur_label">Euro</string>
+    <string name="rub_label">Russian Ruble</string>
+    <string name="jpy_label">Japanese Yen</string>
+    <string name="gbp_label">British Pound</string>
+    <string name="cny_label">Chinese Yuan</string>
+</resources>
